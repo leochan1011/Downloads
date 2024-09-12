@@ -1,0 +1,20 @@
+DateTime	EventType	JobID	ExecutionID	PackageName	SourceName	UserName	MachineName
+
+8/30/2024 10:10:36 AM	OnPreExecute	d1c494e9-4139-4283-8581-ca19e754a0cd	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	TAS ACRM ExtractTicketTransactionDetail Daily	TAS ACRM ExtractTicketTransactionDetail Daily	NT AUTHORITY\SYSTEM	ACRM-MA
+8/30/2024 10:10:37 AM	OnError	d1c494e9-4139-4283-8581-ca19e754a0cd	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	TAS ACRM ExtractTicketTransactionDetail Daily	XML Validate Source	NT AUTHORITY\SYSTEM	ACRM-MA
+8/30/2024 10:10:37 AM	OnError	d1c494e9-4139-4283-8581-ca19e754a0cd	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	TAS ACRM ExtractTicketTransactionDetail Daily	Error Redirect	NT AUTHORITY\SYSTEM	ACRM-MA
+8/30/2024 10:10:37 AM	OnError	d1c494e9-4139-4283-8581-ca19e754a0cd	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	TAS ACRM ExtractTicketTransactionDetail Daily	Error Redirect	NT AUTHORITY\SYSTEM	ACRM-MA
+8/30/2024 10:10:37 AM	OnError	d1c494e9-4139-4283-8581-ca19e754a0cd	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	TAS ACRM ExtractTicketTransactionDetail Daily	SCR Failure	NT AUTHORITY\SYSTEM	ACRM-MA
+8/30/2024 10:10:37 AM	OnPostExecute	d1c494e9-4139-4283-8581-ca19e754a0cd	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	TAS ACRM ExtractTicketTransactionDetail Daily	TAS ACRM ExtractTicketTransactionDetail Daily	NT AUTHORITY\SYSTEM	ACRM-MA	FAILURE
+8/30/2024 11:12:30 AM	OnPreExecute	7c4cd97e-2b67-4a78-a003-b020c334aac1	{F22B724C-D12E-4755-929E-34316DD134C1}	TAS ACRM ExtractTicketTransactionDetail Daily	TAS ACRM ExtractTicketTransactionDetail Daily	NT AUTHORITY\SYSTEM	ACRM-MA
+8/30/2024 11:12:30 AM	OnPreExecute	7c4cd97e-2b67-4a78-a003-b020c334aac1	{F22B724C-D12E-4755-929E-34316DD134C1}	TAS ACRM ExtractTicketTransactionDetail Daily	DFT TAS ACRM Ticket Transaction Detail	NT AUTHORITY\SYSTEM	ACRM-MA
+8/30/2024 11:12:35 AM	OnPostExecute	7c4cd97e-2b67-4a78-a003-b020c334aac1	{F22B724C-D12E-4755-929E-34316DD134C1}	TAS ACRM ExtractTicketTransactionDetail Daily	DFT TAS ACRM Ticket Transaction Detail	NT AUTHORITY\SYSTEM	ACRM-MA	SUCCESS
+******************************
+ExtractCount:	4779
+InsertCount:	4779
+UpdateCount:	0
+DeleteCount:	0
+SourceChecksum:	Checksum of all rows = 54273686123; Numeric Checksum = [TotalTicketQty]10698[TicketTotalAmount]3281544.9000; 
+DestChecksum:	Checksum of all rows = 54273686123; Numeric Checksum = [TotalTicketQty]10698[TicketTotalAmount]3281544.9000[TicketTransactionDetail_key]55262745477; 
+******************************
+8/30/2024 11:12:35 AM	OnPostExecute	7c4cd97e-2b67-4a78-a003-b020c334aac1	{F22B724C-D12E-4755-929E-34316DD134C1}	TAS ACRM ExtractTicketTransactionDetail Daily	TAS ACRM ExtractTicketTransactionDetail Daily	NT AUTHORITY\SYSTEM	ACRM-MA	SUCCESS

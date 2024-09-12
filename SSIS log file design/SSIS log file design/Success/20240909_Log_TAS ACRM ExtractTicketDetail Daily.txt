@@ -1,0 +1,14 @@
+DateTime	EventType	JobID	ExecutionID	PackageName	SourceName	UserName	MachineName
+
+9/9/2024 6:30:37 AM	OnPreExecute	76369b19-dd51-405b-ac31-2813794a9147	{FDD599BE-68CC-44C7-8706-0E5F30E7FBD7}	TAS ACRM ExtractTicketDetail Daily	TAS ACRM ExtractTicketDetail Daily	NT AUTHORITY\SYSTEM	ACRM-MA
+9/9/2024 6:30:38 AM	OnPreExecute	76369b19-dd51-405b-ac31-2813794a9147	{FDD599BE-68CC-44C7-8706-0E5F30E7FBD7}	TAS ACRM ExtractTicketDetail Daily	DFT TAS ACRM Ticket Detail	NT AUTHORITY\SYSTEM	ACRM-MA
+9/9/2024 6:30:38 AM	OnPostExecute	76369b19-dd51-405b-ac31-2813794a9147	{FDD599BE-68CC-44C7-8706-0E5F30E7FBD7}	TAS ACRM ExtractTicketDetail Daily	DFT TAS ACRM Ticket Detail	NT AUTHORITY\SYSTEM	ACRM-MA	SUCCESS
+******************************
+ExtractCount:	4356
+InsertCount:	4356
+UpdateCount:	0
+DeleteCount:	0
+SourceChecksum:	Checksum of all rows = -141036685486; Numeric Checksum = [Price]1495556.3; 
+DestChecksum:	Checksum of all rows = -141036685486; Numeric Checksum = [Price]1495556.3[TicketDetail_key]275241624570; 
+******************************
+9/9/2024 6:30:38 AM	OnPostExecute	76369b19-dd51-405b-ac31-2813794a9147	{FDD599BE-68CC-44C7-8706-0E5F30E7FBD7}	TAS ACRM ExtractTicketDetail Daily	TAS ACRM ExtractTicketDetail Daily	NT AUTHORITY\SYSTEM	ACRM-MA	SUCCESS

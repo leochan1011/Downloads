@@ -1,0 +1,9 @@
+DateTime	EventType	ExecutionID	ErrorCode	ErrorSource	ErrorDescription
+
+8/30/2024 10:10:37 AM	OnError	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	-1073548540	XML Validate Source	An error occurred with the following error message: "Root element is missing.".
+
+8/30/2024 10:10:37 AM	OnError	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	-1071607577	Error Redirect	The XML Source was unable to read the XML data. Root element is missing.
+
+8/30/2024 10:10:37 AM	OnError	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	-1073450983	Error Redirect	XML Source failed the prepare phase and returned error code 0xC02090E7.
+
+8/30/2024 10:10:37 AM	OnError	{496D3807-C850-46C4-B7E0-76CB2F5982BD}	0	SCR Failure	No. of Successful record: 0 Error: 0 Error Message: XML Validation Failure.

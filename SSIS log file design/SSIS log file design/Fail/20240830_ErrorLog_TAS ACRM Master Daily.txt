@@ -1,0 +1,18 @@
+DateTime	EventType	ExecutionID	ErrorCode	ErrorSource	ErrorDescription
+
+8/30/2024 6:30:02 AM	OnError	{BFCF2319-C436-4002-B127-8B54D4D2BDB3}	-1073573501	FTP Get Pending TAS Interfaces	File represented by "/CRM-TAS/Pending/*.*" does not exist.
+ - File Missing: CarParkUsage_240830.xml - File Missing: TicketAdmission_240830.xml - File Missing: TicketCoupon_240830.xml - File Missing: TicketDetail_240830.xml - File Missing: TicketShowEvent_240830.xml - File Missing: TicketTransactionDetail_240830.xml - File Missing: TicketTransactionHeader_240830.xml - File Missing: TicketType_240830.xml - File Missing: VoucherRedemption_240830.xml
+8/30/2024 10:10:37 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	-1073548540	XML Validate Source	An error occurred with the following error message: "Root element is missing.".
+
+8/30/2024 10:10:37 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	-1071607577	Error Redirect	The XML Source was unable to read the XML data. Root element is missing.
+
+8/30/2024 10:10:37 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	-1073450983	Error Redirect	XML Source failed the prepare phase and returned error code 0xC02090E7.
+
+8/30/2024 10:10:37 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	0	SCR Failure	No. of Successful record: 0 Error: 0 Error Message: XML Validation Failure.
+8/30/2024 10:10:38 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	-1073548540	XML Validate Source	An error occurred with the following error message: "Root element is missing.".
+
+8/30/2024 10:10:39 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	-1071607577	Error Redirect	The XML Source was unable to read the XML data. Root element is missing.
+
+8/30/2024 10:10:39 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	-1073450983	Error Redirect	XML Source failed the prepare phase and returned error code 0xC02090E7.
+
+8/30/2024 10:10:39 AM	OnError	{597B5604-A222-47D9-9CAD-C80EADAEF25A}	0	SCR Failure	No. of Successful record: 0 Error: 0 Error Message: XML Validation Failure.
