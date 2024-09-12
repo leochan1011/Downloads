@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS public.ODS_RDS_StoreBusinessdaylock(
+    id BIGINT IDENTITY(1,1) NOT NULL,
+    storeid bigint NULL,
+    businessday TIMESTAMP WITHOUT TIME ZONE NULL,
+    lockdate TIMESTAMP WITHOUT TIME ZONE NULL,
+    posdayclose TIMESTAMP WITHOUT TIME ZONE NULL,
+    PRIMARY KEY (id)
+);
+
+COMMIT;
+

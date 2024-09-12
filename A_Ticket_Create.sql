@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS public.A_Ticket(
+    BusinessDate TIMESTAMP WITHOUT TIME ZONE NULL,
+    StoreNo INTEGER NULL,
+    PosTransactionId BIGINT NULL,
+    TicketKey VARCHAR(400) NULL,
+    TenderMain VARCHAR(400) NULL,
+    TenderAmountMain NUMERIC(38,4) NULL,
+    TenderAmount NUMERIC(38,4) NULL,
+    CreateDate TIMESTAMP WITHOUT TIME ZONE NULL 
+);
+
+COMMIT;
